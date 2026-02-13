@@ -10,3 +10,6 @@ This project is a settings screen created with Material 3 components.
 
 Medium Phone API 36.1 
 Android 16.0 ("Baklava") | x86_64
+
+## Screenshots 
+
